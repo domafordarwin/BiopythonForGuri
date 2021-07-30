@@ -8,3 +8,5 @@ from Bio.Seq import Seq
 my_seq = Seq("AGCTAAATTCAGGGACACACT")
 
 print(my_seq)
+
+my_seq.alphabet
